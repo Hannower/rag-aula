@@ -1,0 +1,20 @@
+AMBIENTE
+Windows 11
+IDE VSCODE
+
+VARIAVEIS DE AMBIENTE
+.env
+
+CONEXÕES REMOTAS NO .env
+SUPABASE Server Build APIs
+OPENROUTER API
+
+MODELO DA LLM
+openrouter/auto
+
+STACKS
+FRONTEND: NextJS com tecnologia Tailwind CSS
+BACKEND: python
+DATABASE: supabase remoto
+LLM: openrouter
+
